@@ -166,14 +166,14 @@ const help = (prefix) => {
                    ❉─────DONO DA GIT─────❉\n
 
 ╔═══════════════════════════════════\n
-║│➸DONO DO BOT: TIO PAIN\n
-║│➸CRIADOR DO MENU: TIO PAIN XD\n
-║│➸NUMERO DO DONO: wa.me/5511949545217\n
-║│➸DIA DE CRIAÇÃO: 04/01/2021\n
+║│➸DONO DO BOT: SR>ALLISON
+║│➸CRIADOR DO MENU: SR>ALLISON XD\n
+║│➸NUMERO DO DONO: wa.me/5586988036194\n
+║│➸DIA DE CRIAÇÃO: 08/02/2021\n
 ╚═══════════════════════════════════\n
-╭────────────────╮
- *COMANDOS DO BOT PAIN NOVOS*
-╰────────────────╯
+╭─────────────────────────────╮
+ *COMANDOS DO BOT OF HELL NOVOS*
+╰─────────────────────────────╯
 ════════════════════
 ➸ *${prefix}regras*
 ➸ *${prefix}boanoite*
